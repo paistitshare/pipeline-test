@@ -13,7 +13,7 @@
     "moment": "2.22.2",
     "mongoose": "5.13.15",
     "mongorito": "3.0.4",
-    "bluebird": "0.7.1-1",
+    "bluebird": "3.7.2",
     "argon": "2.0.0",
     "bcrypt": "4.0.1",
     "validatorjs": "0.5.2",
