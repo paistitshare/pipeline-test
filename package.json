@@ -1,0 +1,22 @@
+{
+  "name": "pipeline-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "0.18.0",
+    "cheerio": "1.0.0-rc.2",
+    "commander": "2.19.0",
+    "moment": "2.22.2",
+    "mongoose": "5.3.4",
+    "mongorito": "3.0.4",
+    "bluebird": "0.7.1-1",
+    "argon": "2.0.0",
+    "bcrypt": "4.0.1",
+    "validatorjs": "0.5.2",
+    "js-crypto-hmac": "0.2.0"
+  }
+}
